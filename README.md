@@ -63,3 +63,13 @@ For more information on using the Angular CLI, including detailed command refere
 
 
 ![image alt](https://github.com/Adib1133/klinik24-landing/blob/3582a25edf938f1388c2481e7047eadcb7028812/image2.png)
+
+
+## To run this code you need to write the following bash commands in your terminal:
+
+![image alt](https://github.com/Adib1133/klinik24-landing/blob/242eb798868c12116673f2842025a9a7b7a9bbaf/image.png)
+
+
+## Proof:
+
+![image alt](https://github.com/Adib1133/klinik24-landing/blob/242eb798868c12116673f2842025a9a7b7a9bbaf/image3.png)
