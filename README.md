@@ -59,6 +59,12 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
 
+## This project involved recreating the image shown below, originally extracted from a Figma design file.:
+
+
+![image alt](https://github.com/Adib1133/klinik24-landing/blob/c4a3923fa0cec817b81e28ab17aae480f7e1efa1/Landing%20Page%20Health%20Care.png)
+
+
 ## My angular CLI version that i used:
 
 
